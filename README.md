@@ -1,2 +1,2 @@
-# heart-disease-prediction
-This project integrates predictive modeling and blockchain in transitional healthcare, achieving 90% accuracy, enhancing patient engagement, ensuring data integrity, and suggesting implications for efficient and patient-focused healthcare systems.
+# Blockchain Enabled Health Monitoring System
+By leveraging machine learning algorithms and blockchain technology, this project not only demonstrates a 90% accuracy rate in predicting patient needs and health trends but also emphasizes the potential to safeguard patient information and improve doctor-patient communication. The recommendations for implementation and scalability highlight the transformative impact of embracing technological advancements in creating more efficient and patient-centric healthcare systems, particularly in anticipating and addressing heart ailments.
